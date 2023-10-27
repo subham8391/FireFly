@@ -7,7 +7,6 @@ const images = [
   beej2,
   BeejPatakha,
   beej3,
-  // Add more images here
 ];
 
 const Carousel = () => {
